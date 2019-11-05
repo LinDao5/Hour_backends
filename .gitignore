@@ -1,0 +1,6 @@
+/application/config/database.php
+/application/config/constants.php
+
+.htaccess
+.index.php
+.idea/
